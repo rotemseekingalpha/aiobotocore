@@ -1,5 +1,12 @@
 Changes
 -------
+1.3.0 (2021-02-09)
+^^^^^^^^^^^^^^^^^^
+* bump following versions:
+  awscli   => 1.19.4
+  boto3    => 1.17.4
+  botocore => 1.20.4
+
 1.2.0 (2021-01-11)
 ^^^^^^^^^^^^^^^^^^
 * bump botocore to 1.19.52
